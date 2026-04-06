@@ -1,0 +1,18 @@
+{
+  "Title": "Lincoln",
+  "FullTitle": "Lincoln",
+  "SortTitle": "Lincoln",
+  "Slug": "lincoln-2012",
+  "Type": "Movie",
+  "Year": 2012,
+  "ImageUrl": "Movie/lincoln-2012/cover.jpg",
+  "ExternalIds": {
+    "Tmdb": "72976",
+    "Imdb": "tt0443272"
+  },
+  "Groups": [],
+  "Plot": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+  "RuntimeMinutes": 150,
+  "ReleaseDate": "2012-11-09T00:00:00Z",
+  "DateAdded": "2026-04-06T20:59:48Z"
+}
