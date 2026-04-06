@@ -1,0 +1,513 @@
+{
+  "Index": 1,
+  "Slug": "blu-ray",
+  "Name": "Blu-ray",
+  "Format": "Blu-ray",
+  "ContentHash": "",
+  "Titles": [
+    {
+      "Index": 1,
+      "Comment": "Richard Jewell",
+      "SourceFile": "00802.mpls",
+      "SegmentMap": "00802.mpls",
+      "Duration": "0:02:13",
+      "Size": 219734016,
+      "DisplaySize": "209.5 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "AC3",
+          "Type": "audio",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Comment": "Richard Jewell",
+      "SourceFile": "00803.mpls",
+      "SegmentMap": "00803.mpls",
+      "Duration": "2:10:55",
+      "Size": 37847783424,
+      "DisplaySize": "35.2 GB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "DTS-HD MA",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 4,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 5,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 6,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 8,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 9,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 10,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 11,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 12,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 13,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 14,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 15,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 16,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 17,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 18,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 19,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 20,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 21,
+          "Name": "DTS-HD MA",
+          "Type": "audio",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 22,
+          "Name": "AC3",
+          "Type": "audio",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 23,
+          "Name": "AC3",
+          "Type": "audio",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 24,
+          "Name": "AC3",
+          "Type": "audio",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 25,
+          "Name": "AC3",
+          "Type": "audio",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 26,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 27,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 28,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 29,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 30,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 31,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 32,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Comment": "Richard Jewell",
+      "SourceFile": "01143.m2ts",
+      "SegmentMap": "01143.m2ts",
+      "Duration": "0:02:16",
+      "Size": 221620224,
+      "DisplaySize": "211.3 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 1,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Comment": "Richard Jewell",
+      "SourceFile": "01144.m2ts",
+      "SegmentMap": "01144.m2ts",
+      "Duration": "0:02:29",
+      "Size": 243197952,
+      "DisplaySize": "231.9 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 1,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 5,
+      "Comment": "Richard Jewell",
+      "SourceFile": "01251.m2ts",
+      "SegmentMap": "01251.m2ts",
+      "Duration": "0:06:58",
+      "Size": 1643286528,
+      "DisplaySize": "1.5 GB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 1,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 3,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 4,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 6,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 7,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 8,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 9,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 6,
+      "Comment": "Richard Jewell",
+      "SourceFile": "01257.m2ts",
+      "SegmentMap": "01257.m2ts",
+      "Duration": "0:06:39",
+      "Size": 1570332672,
+      "DisplaySize": "1.4 GB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 1,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 3,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 4,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 5,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 6,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 7,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 8,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 9,
+          "Name": "PGS",
+          "Type": "subtitle",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 0,
+      "Comment": "Richard Jewell",
+      "SourceFile": "00055.mpls",
+      "SegmentMap": "00055.mpls",
+      "Duration": "0:05:40",
+      "Size": 178225152,
+      "DisplaySize": "169.9 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4",
+          "Type": "",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    }
+  ]
+}

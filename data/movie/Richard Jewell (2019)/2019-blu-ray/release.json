@@ -1,0 +1,17 @@
+{
+  "Slug": "2019-blu-ray",
+  "Upc": "883929706396",
+  "Year": 2019,
+  "Locale": "en-us",
+  "RegionCode": "A",
+  "Title": "Blu-ray",
+  "SortTitle": "2019 Blu-ray",
+  "ImageUrl": "Movie/richard-jewell-2019/2019-blu-ray.jpg",
+  "DateAdded": "2026-04-06T22:19:13Z",
+  "Contributors": [
+    {
+      "Name": "JohnPostlethwait",
+      "Source": "github"
+    }
+  ]
+}

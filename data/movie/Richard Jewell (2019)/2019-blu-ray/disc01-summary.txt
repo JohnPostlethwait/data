@@ -1,0 +1,39 @@
+Name: Main Menu
+Source file name: 00802.mpls
+Duration: 0:02:13
+Chapters count: 3
+Size: 209.5 MB
+Segment count: 1
+Segment Map: 00802.mpls
+Type: Extra
+File name: Richard Jewell_t01.mkv
+
+Name: Richard Jewell
+Source file name: 00803.mpls
+Duration: 2:10:55
+Chapters count: 15
+Size: 35.2 GB
+Segment count: 1
+Segment Map: 00803.mpls
+Type: MainMovie
+File name: Richard Jewell_t02.mkv
+
+Name: The Making of Richard Jewell
+Source file name: 01251.m2ts
+Duration: 0:06:58
+Chapters count: 
+Size: 1.5 GB
+Segment count: 1
+Segment Map: 01251.m2ts
+Type: Extra
+File name: Richard Jewell_t05.mkv
+
+Name: The Real Story of Richard Jewell
+Source file name: 01257.m2ts
+Duration: 0:06:39
+Chapters count: 
+Size: 1.4 GB
+Segment count: 1
+Segment Map: 01257.m2ts
+Type: Extra
+File name: Richard Jewell_t06.mkv
