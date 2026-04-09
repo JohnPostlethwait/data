@@ -1,0 +1,976 @@
+{
+  "Index": 1,
+  "Slug": "uhd",
+  "Name": "UHD",
+  "Format": "UHD",
+  "ContentHash": "",
+  "Titles": [
+    {
+      "Index": 0,
+      "Comment": "Willow",
+      "SourceFile": "00801.mpls",
+      "SegmentMap": "00801.mpls",
+      "Duration": "2:05:53",
+      "Size": 63551416320,
+      "DisplaySize": "59.1 GB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 1,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 2,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 3,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 5,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 6,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 8,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "dan",
+          "Language": "Danish"
+        },
+        {
+          "Index": 9,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 10,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 11,
+          "Name": "DTS-HD HRA",
+          "Type": "",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 12,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 13,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nor",
+          "Language": "Norwegian"
+        },
+        {
+          "Index": 14,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 15,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 16,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 17,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "dan",
+          "Language": "Danish"
+        },
+        {
+          "Index": 18,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 19,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 20,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 21,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fin",
+          "Language": "Finnish"
+        },
+        {
+          "Index": 22,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 23,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 24,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 25,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ces",
+          "Language": "Czech"
+        },
+        {
+          "Index": 26,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nld",
+          "Language": "Dutch"
+        },
+        {
+          "Index": 27,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nor",
+          "Language": "Norwegian"
+        },
+        {
+          "Index": 28,
+          "Name": "DTS-HD HRA",
+          "Type": "",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 29,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 30,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nld",
+          "Language": "Dutch"
+        },
+        {
+          "Index": 31,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fin",
+          "Language": "Finnish"
+        },
+        {
+          "Index": 32,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 33,
+          "Name": "DTS-HD MA",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 34,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 35,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 36,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 37,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 38,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 39,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 40,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 41,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 42,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 43,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 44,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 45,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ces",
+          "Language": "Czech"
+        },
+        {
+          "Index": 46,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 47,
+          "Name": "MpegH",
+          "Type": "",
+          "Resolution": "3840x2160",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 48,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 49,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "swe",
+          "Language": "Swedish"
+        },
+        {
+          "Index": 50,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 51,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 52,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "swe",
+          "Language": "Swedish"
+        },
+        {
+          "Index": 53,
+          "Name": "DTS-HD MA",
+          "Type": "Audio",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 54,
+          "Name": "AC3",
+          "Type": "Audio",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 55,
+          "Name": "DTS-HD MA",
+          "Type": "Audio",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 56,
+          "Name": "DTS",
+          "Type": "Audio",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 57,
+          "Name": "AC3",
+          "Type": "Audio",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 58,
+          "Name": "DTS-HD MA",
+          "Type": "Audio",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 59,
+          "Name": "DTS",
+          "Type": "Audio",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 60,
+          "Name": "AC3",
+          "Type": "Audio",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 61,
+          "Name": "AC3",
+          "Type": "Audio",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 62,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 63,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 64,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 65,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 66,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 67,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 68,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 69,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ces",
+          "Language": "Czech"
+        },
+        {
+          "Index": 70,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 71,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nld",
+          "Language": "Dutch"
+        },
+        {
+          "Index": 72,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "dan",
+          "Language": "Danish"
+        },
+        {
+          "Index": 73,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fin",
+          "Language": "Finnish"
+        },
+        {
+          "Index": 74,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nor",
+          "Language": "Norwegian"
+        },
+        {
+          "Index": 75,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "swe",
+          "Language": "Swedish"
+        },
+        {
+          "Index": 76,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 77,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 78,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 79,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 80,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 81,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "Comment": "Willow",
+      "SourceFile": "00294.m2ts",
+      "SegmentMap": "00294.m2ts",
+      "Duration": "2:05:53",
+      "Size": 63551416320,
+      "DisplaySize": "59.1 GB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "DTS-HD HRA",
+          "Type": "",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 1,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 2,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 3,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 4,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "dan",
+          "Language": "Danish"
+        },
+        {
+          "Index": 5,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 7,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ces",
+          "Language": "Czech"
+        },
+        {
+          "Index": 9,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 10,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 11,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nor",
+          "Language": "Norwegian"
+        },
+        {
+          "Index": 12,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 14,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 15,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 16,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 17,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 18,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 19,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 20,
+          "Name": "DTS",
+          "Type": "",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 21,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "pol",
+          "Language": "Polish"
+        },
+        {
+          "Index": 22,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nld",
+          "Language": "Dutch"
+        },
+        {
+          "Index": 23,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fin",
+          "Language": "Finnish"
+        },
+        {
+          "Index": 24,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fin",
+          "Language": "Finnish"
+        },
+        {
+          "Index": 25,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 26,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 27,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "dan",
+          "Language": "Danish"
+        },
+        {
+          "Index": 28,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 29,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 30,
+          "Name": "DTS-HD MA",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 31,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 32,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 33,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 34,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nor",
+          "Language": "Norwegian"
+        },
+        {
+          "Index": 35,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 36,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 37,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 38,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 39,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 40,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "nld",
+          "Language": "Dutch"
+        },
+        {
+          "Index": 41,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "swe",
+          "Language": "Swedish"
+        },
+        {
+          "Index": 42,
+          "Name": "MpegH",
+          "Type": "",
+          "Resolution": "3840x2160",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 43,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 44,
+          "Name": "DTS-HD HRA",
+          "Type": "",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 45,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 46,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 47,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ita",
+          "Language": "Italian"
+        },
+        {
+          "Index": 48,
+          "Name": "DD",
+          "Type": "",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 49,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "fra",
+          "Language": "French"
+        },
+        {
+          "Index": 50,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 51,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "ces",
+          "Language": "Czech"
+        },
+        {
+          "Index": 52,
+          "Name": "PGS",
+          "Type": "Subtitles",
+          "LanguageCode": "swe",
+          "Language": "Swedish"
+        }
+      ]
+    }
+  ]
+}
